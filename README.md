@@ -34,5 +34,10 @@
 ```bash
 project-folder/
 │
-├── index.html
+├── style.css
+│
+├── page.html
+│
+├── index.js
+│
 └── README.md
